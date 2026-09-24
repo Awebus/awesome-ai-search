@@ -199,6 +199,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 - [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Vendor-directory-derived censuses covering pricing, engine coverage, API and MCP availability, and published methodology.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Aggregate studies of how brands and sources appear across AI engines.
+- [One Day of AI Reading (Engagemii)](https://engagemii.com/research/one-day-of-ai-reading) - Crawl-log study of 5.7M AI crawler reads of a 60M-company index in 24 hours, per engine, IP-verified.
 
 ## Newsletters and Blogs
 
